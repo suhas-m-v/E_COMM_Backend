@@ -1,0 +1,18 @@
+
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Environment variables (Crucial for security!)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Alembic local configuration override (if you have it)
+alembic.ini
