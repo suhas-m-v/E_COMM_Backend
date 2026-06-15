@@ -2,8 +2,8 @@
 *.pyc
 
 # Virtual environment
-.venv/
-venv/
+.myenv/
+myenv/
 ENV/
 
 # Environment variables (Crucial for security!)
