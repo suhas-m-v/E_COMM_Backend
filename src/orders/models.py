@@ -1,7 +1,7 @@
 from sqlalchemy import Column,Integer,String,Boolean,ForeignKey,Float,Date
 from src.utils.db import Base
 
-class Users(Base):
+class Orders(Base):
     
     __tablename__="orders"
     
